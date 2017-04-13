@@ -12,5 +12,13 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "campground": {
+    "dataSource": "reservationDS",
+    "public": true
+  },
+  "reservation": {
+    "dataSource": "reservationDS",
+    "public": true
   }
 }
